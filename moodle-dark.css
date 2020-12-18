@@ -1,0 +1,17 @@
+body, .dropdown-menu, .form-control {
+    background-color: #343a40 !important;
+    color: #fff;
+}
+
+#region-main, .navbar-bootswatch, .nav-link, .btn, .list-group-item, .page-item {
+    background-color: #212529 !important;
+    color: #fff !important;
+}
+
+a, a:hover, .icon, .dropdown-item, .site-name {
+    color: #fff !important;
+}
+
+.course-summaryitem, .card {
+    background-color: #212529 !important;
+}
