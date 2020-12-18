@@ -1,2 +1,2 @@
-##Apply styles with
+## Apply styles with
 [Amino Editor](https://aminoeditor.com/)
